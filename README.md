@@ -1,2 +1,6 @@
 # github-fundas
-playing around with github tools like pull request
+pull request
+
+Pull requests are supposed to be a quick way and asynchronous way of submitting a feature.
+
+
